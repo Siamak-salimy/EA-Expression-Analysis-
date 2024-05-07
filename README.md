@@ -8,3 +8,5 @@ There are several methods available for EA, including quantitative polymerase ch
 The data generated from EA experiments can be analyzed using statistical methods to identify differentially expressed genes between samples or to cluster samples based on their gene expression profiles. Gene ontology analysis can also be performed to understand the functional significance of differentially expressed genes.
 
 Overall, Expression Analysis plays a crucial role in unraveling the complex dynamics of gene expression patterns and provides valuable information for further biological investigations.
+
+![GO_KEGG](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/c6d713c7-5caf-4879-a1f1-53da401a175f)
