@@ -10,4 +10,4 @@ The data generated from EA experiments can be analyzed using statistical methods
 Overall, Expression Analysis plays a crucial role in unraveling the complex dynamics of gene expression patterns and provides valuable information for further biological investigations.
 
 ![GO_KEGG](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/c6d713c7-5caf-4879-a1f1-53da401a175f)
-![string_hires_image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/0a188d2d-e345-4a40-94f0-92d5351071d9)
+
