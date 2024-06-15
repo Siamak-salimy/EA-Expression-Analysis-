@@ -9,5 +9,5 @@ Tide : http://tide.dfci.harvard.edu/
 ![logo](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/9819d5e1-585c-47fd-8f32-9c19413a8abc)
 
 http://timer.cistrome.org/
-<img src="https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/f37a0ed8-6392-4d48-9d96-1cafafc75af1" alt="timer" width="300"/>
+<img src="https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/f37a0ed8-6392-4d48-9d96-1cafafc75af1" alt="timer" width="30"/>
 
