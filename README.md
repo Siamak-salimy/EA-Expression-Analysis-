@@ -1,4 +1,4 @@
-# EA-Expression-Analysis
+![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/7a9656b1-a549-4cbf-821c-a93246748ab8)# EA-Expression-Analysis
 Expression Analysis (EA) is a technique used in molecular biology to determine the level of gene expression in a particular sample. It involves measuring the amount of messenger RNA (mRNA) produced by genes, as mRNA serves as a template for protein synthesis and is an indicator of gene activity.
 
 EA can provide valuable insights into various biological processes, such as understanding how different genes are regulated, identifying biomarkers for diseases, studying developmental processes, and evaluating the efficacy of drug treatments.
@@ -16,3 +16,10 @@ Expression Analysis (EA) datasets typically refer to gene expression data derive
 For studies related to azoospermia and spermatogenesis, researchers might look for EA datasets that focus on gene expression profiles from testicular tissues, semen samples, or relevant cell lines. These datasets can provide insights into differential gene expression patterns between normal and diseased states, identify potential biomarkers associated with spermatogenic failure, and uncover underlying molecular pathways involved in these conditions.
 
 To access EA datasets, researchers can explore repositories such as Gene Expression Omnibus (GEO), ArrayExpress, or specific databases curated by research institutions or consortia focusing on reproductive biology and male infertility. These datasets are valuable resources for hypothesis generation, validation of findings, and integration with other omics data (such as genomic and epigenomic data) to comprehensively understand the complexities of azoospermia and spermatogenesis at the molecular level.
+Gene Expression Omnibus (GEO)
+https://www.ncbi.nlm.nih.gov/gds/
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26712
+Array Express
+https://www.ebi.ac.uk/arrayexpress/
+![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/5163c363-5fcc-4f78-9e17-da5f46651464)
+
