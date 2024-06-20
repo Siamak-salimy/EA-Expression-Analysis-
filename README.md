@@ -19,7 +19,7 @@ To access EA datasets, researchers can explore repositories such as Gene Express
 Gene Expression Omnibus (GEO) </br>
 https://www.ncbi.nlm.nih.gov/gds/</br>
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26712</br>
-Array Express
+Array Express</br>
 https://www.ebi.ac.uk/arrayexpress/
 ![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/5163c363-5fcc-4f78-9e17-da5f46651464)
 
