@@ -15,10 +15,10 @@ Expression Analysis (EA) datasets typically refer to gene expression data derive
 
 For studies related to azoospermia and spermatogenesis, researchers might look for EA datasets that focus on gene expression profiles from testicular tissues, semen samples, or relevant cell lines. These datasets can provide insights into differential gene expression patterns between normal and diseased states, identify potential biomarkers associated with spermatogenic failure, and uncover underlying molecular pathways involved in these conditions.
 
-To access EA datasets, researchers can explore repositories such as Gene Expression Omnibus (GEO), ArrayExpress, or specific databases curated by research institutions or consortia focusing on reproductive biology and male infertility. These datasets are valuable resources for hypothesis generation, validation of findings, and integration with other omics data (such as genomic and epigenomic data) to comprehensively understand the complexities of azoospermia and spermatogenesis at the molecular level.
-Gene Expression Omnibus (GEO)
-https://www.ncbi.nlm.nih.gov/gds/
-https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26712
+To access EA datasets, researchers can explore repositories such as Gene Expression Omnibus (GEO), ArrayExpress, or specific databases curated by research institutions or consortia focusing on reproductive biology and male infertility. These datasets are valuable resources for hypothesis generation, validation of findings, and integration with other omics data (such as genomic and epigenomic data) to comprehensively understand the complexities of azoospermia and spermatogenesis at the molecular level.</br>
+Gene Expression Omnibus (GEO) </br>
+https://www.ncbi.nlm.nih.gov/gds/</br>
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE26712</br>
 Array Express
 https://www.ebi.ac.uk/arrayexpress/
 ![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/5163c363-5fcc-4f78-9e17-da5f46651464)
