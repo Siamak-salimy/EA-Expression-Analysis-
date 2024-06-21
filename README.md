@@ -1,4 +1,5 @@
-![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/7a9656b1-a549-4cbf-821c-a93246748ab8)# EA-Expression-Analysis
+![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/7a9656b1-a549-4cbf-821c-a93246748ab8) </br>
+# EA-Expression-Analysis
 Expression Analysis (EA) is a technique used in molecular biology to determine the level of gene expression in a particular sample. It involves measuring the amount of messenger RNA (mRNA) produced by genes, as mRNA serves as a template for protein synthesis and is an indicator of gene activity.
 
 EA can provide valuable insights into various biological processes, such as understanding how different genes are regulated, identifying biomarkers for diseases, studying developmental processes, and evaluating the efficacy of drug treatments.
