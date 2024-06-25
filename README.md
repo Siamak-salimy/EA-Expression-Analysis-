@@ -24,3 +24,5 @@ Array Express</br>
 https://www.ebi.ac.uk/arrayexpress/
 ![image](https://github.com/Siamak-salimy/EA-Expression-Analysis-/assets/34867846/5163c363-5fcc-4f78-9e17-da5f46651464)
 
+Though the difference between the two is minor, their implications are entirely different. Whereas plagiarism refers to an act of ethical misconduct, similarity refers to any portion of your paper that recognizably matches text found in previously published literature in iThenticate's content database.
+
