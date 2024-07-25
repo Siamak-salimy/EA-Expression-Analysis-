@@ -32,3 +32,4 @@ WGCNA, or Weighted Gene Co-Expression Network Analysis, is a widely used systems
 By using WGCNA, researchers can identify clusters, or modules, of co-expressed genes within the network. These modules represent groups of genes that tend to be coregulated and functionally related. WGCNA also allows for the detection of key hub genes within these modules, which are often biologically important in various processes.
 
 Overall, WGCNA provides a powerful tool for exploring gene expression data and understanding relationships between different genes in biological systems. It has numerous applications in fields such as genetics, genomics, systems biology, and biomedical research.
+https://github.com/Lindseynicer/WGCNA_tutorial
