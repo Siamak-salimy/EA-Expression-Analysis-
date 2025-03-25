@@ -2,6 +2,7 @@
 # EA-Expression-Analysis
 Expression Analysis (EA) is a technique used in molecular biology to determine the level of gene expression in a particular sample. It involves measuring the amount of messenger RNA (mRNA) produced by genes, as mRNA serves as a template for protein synthesis and is an indicator of gene activity.
 
+
 EA can provide valuable insights into various biological processes, such as understanding how different genes are regulated, identifying biomarkers for diseases, studying developmental processes, and evaluating the efficacy of drug treatments.
 
 There are several methods available for EA, including quantitative polymerase chain reaction (qPCR), microarray analysis, and RNA sequencing (RNA-seq). Each method has its own advantages and limitations. QPCR is commonly used for its high sensitivity and specificity in quantifying gene expression levels. Microarray analysis allows researchers to simultaneously measure the expression of thousands of genes. RNA-seq offers comprehensive profiling of all transcribed genes in a sample.
